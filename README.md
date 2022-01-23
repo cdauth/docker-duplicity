@@ -1,0 +1,1 @@
+Alpine Linux with duplicity and backblaze-b2 installed. Usage example: `docker run --rm rankenstein/duplicity duplicity --help`.
